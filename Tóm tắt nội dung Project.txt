@@ -1,0 +1,35 @@
+Title	: Tóm tắt nội dung nội dung Project
+Ngày 	: 26/02/2024 
+Địa điểm: TP.HCM
+Tác giả : Nguyễn Hữu Khánh
+Các thiết bị:
+	- Máy tính: Có phần mềm quản lý bao gồm các thành phần
+		+ Nút xuất file Excel
+		+ 2 Camera xem vào ra
+		+ Thời gian thực
+		+ Số chỗ trống
+		+ Thời gian vào
+		+ Thời gian ra
+		+ Biển số xe vào
+		+ Biển số xe ra
+	- 2 Camera xác định biển số xe
+	- 2 Camera xác định mã QR
+	- LED báo hiệu các chỗ giữ xe đã có hay chưa có xe dựng
+	- Cảm biến nhận dạng xe đỗ
+	- LCD hiển thị biển số xe
+Các chức năng:
+	- Vào nhà xe bằng CCCD
+	- Vào nhà xe bằng QR điên thoại
+	- Đặt vị trước vị trí 
+	- Quản lý xe trên máy tính
+		+ Tự động nhận dạng biển số xe - Auto
+		+ Cho phép nhập tay biển số xe - Manual
+	- Quét thiết bị di động
+	- Xuất file Excel (Manual - Auto)
+	- Cật nhật dữ liệu tự động trên FireBase
+	- Nút nhấn mở cửa trong trường hợp mất điện
+Mô tả hoạt động - Kịch bảng hoạt động
+	Kịch bản dựng xe không đặt trước vị trí: Khi xe vào báo biển quét QR bằng CCCD/Điện thoại, trên màn hình LCD và màn hình máy tính sẽ hiển thị vị trí (Ví dụ A0) để dựng xe. Sau khi dựng xe vào thì vị trí hiển thị trên Firebase và máy tính là không trống nữa.
+	Kịch bản dựng xe sử dụng vị trí đặt trước: Dùng App di động để đặt một vị trí còn trống, máy tính sẽ mất đi một vị trí trống. Khi người dùng vào cần nói rõ thông tin để được vào nhà giữ xe.
+	Nếu trong trường hợp Camera không nhận được biển số xe thì người quản lý có thể nhập (manual) biển số xe.
+

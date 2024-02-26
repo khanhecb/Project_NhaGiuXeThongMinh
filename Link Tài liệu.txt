@@ -1,0 +1,12 @@
+Document Firebase_admin: https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/
+Docuement Kivy_Python  : https://kivy.org/doc/stable/gettingstarted/first_app.html
+
+
+Phần mềm cho vi điều khiển:
+https://drive.google.com/drive/folders/1EQxehT5tSEvZXnLnFoZFZcg_GU8ft-5Q
+Phần mềm hệ thống giám sát:
+https://drive.google.com/drive/folders/1d4YWWDvU5oNKB2_Fxy9In8FY98tFTiz-
+Phần mềm cho ứng dụng điện thoại:
+https://drive.google.com/drive/folders/1n6mnPatnfxft5TYC3VLp6rhb6SmYxm-H
+Video chi tiết hệ thống:
+https://drive.google.com/drive/folders/11Rkueszybw9lPQNqPwTmoSZ16lcxuNDp
